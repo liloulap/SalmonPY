@@ -1,2 +1,8 @@
 # SalmonPY
-View the other branches for view the project source
+A simple phyton project
+
+
+# Description
+This project is make for simplify the life of devloper
+
+Language : FR
